@@ -1,0 +1,3 @@
+#index:
+#    path: /api/v1/notebook/
+#    controller: App\Controller\ApiNotebookController::getNotebookEntries
